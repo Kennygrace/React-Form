@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Kennygrace/React-Form/static/js/main.43330a3a.chunk.js",
+    "main.js.map": "/Kennygrace/React-Form/static/js/main.43330a3a.chunk.js.map",
+    "runtime-main.js": "/Kennygrace/React-Form/static/js/runtime-main.f667bd95.js",
+    "runtime-main.js.map": "/Kennygrace/React-Form/static/js/runtime-main.f667bd95.js.map",
+    "static/js/2.729ecec2.chunk.js": "/Kennygrace/React-Form/static/js/2.729ecec2.chunk.js",
+    "static/js/2.729ecec2.chunk.js.map": "/Kennygrace/React-Form/static/js/2.729ecec2.chunk.js.map",
+    "index.html": "/Kennygrace/React-Form/index.html",
+    "precache-manifest.e18fb9c64f5985af8a4726a7e031c4f2.js": "/Kennygrace/React-Form/precache-manifest.e18fb9c64f5985af8a4726a7e031c4f2.js",
+    "service-worker.js": "/Kennygrace/React-Form/service-worker.js",
+    "static/js/2.729ecec2.chunk.js.LICENSE.txt": "/Kennygrace/React-Form/static/js/2.729ecec2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f667bd95.js",
+    "static/js/2.729ecec2.chunk.js",
+    "static/js/main.43330a3a.chunk.js"
+  ]
+}
